@@ -1,0 +1,1 @@
+ejercicio 1 es el compilado de de flujos, se encuentran en la carpeta assets/img
